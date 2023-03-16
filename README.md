@@ -16,5 +16,5 @@ Jr Developer
  </br>
  <h2> Contatos </h2>
  <div>
-   <a href=("https://www.linkedin.com/in/anafsmonteiro/)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" heigth="50" align="center" /></a>
+   <a href="https://www.linkedin.com/in/anafsmonteiro/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" heigth="50" align="center" /></a>
  </div>
