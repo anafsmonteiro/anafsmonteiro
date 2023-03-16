@@ -16,5 +16,5 @@ Jr Developer
  </br>
  <h2> Contatos </h2>
  <div>
-   <a target="_blank" href="[https://www.linkedin.com/in/junior-elias-2214641a4/?originalSubdomain=br](https://www.linkedin.com/in/anafsmonteiro/)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" heigth="50" align="center" /></a>
+   <a href=("https://www.linkedin.com/in/anafsmonteiro/)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" heigth="50" align="center" /></a>
  </div>
