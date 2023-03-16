@@ -1,25 +1,22 @@
-# Ana Flavia
+## 💜 Olá, meu nome é <strong>Ana Flavia!</strong>
 
-Olá, me chamo Ana e sou estudante de programação com foco em Full-Stack!!!
+> Estudei licenciatura em matemática, mas no meio do processo me apaixonei pela programação e iniciei a transição de carreira para me tornar uma desenvolvedora de softwares.
 
-Jr Developer
+🔭 No momento participo da segunda turma do projeto Up Code da Pague Menos, que forma desenvolvedores juniors.
 
-<div align="center">
-  <a href="https://github.com/anafsmonteiro">
-  <img src="https://github-readme-stats.vercel.app/api?username=anafsmonteiro&theme=monokai&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafsmonteiro&layout=compact&theme=monokai"/>
-  </a>
-</div>
-<br>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" heigth="50" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" heigth="50" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" heigth="50" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" heigth="50" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="50" heigth="50" align="center"/>
- </div>  
- </br>
- <h2> Contatos </h2>
- <div>
-   <a href="https://www.linkedin.com/in/anafsmonteiro/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" heigth="50" align="center" /></a>
- </div>
+----
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+
+---
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anafsmonteiro&show_icons=true)
