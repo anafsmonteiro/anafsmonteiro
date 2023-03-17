@@ -2,7 +2,7 @@
 
 > Estudei licenciatura em matemática, mas no meio do processo me apaixonei pela programação e iniciei a transição de carreira para me tornar uma desenvolvedora de softwares.
 
-🔭 No momento participo da segunda turma do projeto Up Code da Pague Menos, que forma desenvolvedores juniors.
+* No momento participo da segunda turma do projeto Up Code da Pague Menos, que forma desenvolvedores juniors.
 
 ----
 
